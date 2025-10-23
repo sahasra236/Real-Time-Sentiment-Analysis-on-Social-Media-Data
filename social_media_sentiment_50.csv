@@ -1,0 +1,51 @@
+id,platform,username,post_text,timestamp,sentiment
+1,Twitter,user1,Waiting to see what happens next.,2025-10-16 09:02,Neutral
+2,Instagram,user2,Completely disappointed with the results.,2025-10-16 09:04,Negative
+3,Instagram,user3,Worst update ever.,2025-10-16 09:06,Negative
+4,Instagram,user4,Great experience using this app!,2025-10-16 09:08,Positive
+5,Twitter,user5,This product doesn’t work.,2025-10-16 09:10,Negative
+6,YouTube,user6,AI tools are amazing.,2025-10-16 09:12,Positive
+7,Instagram,user7,This product doesn’t work.,2025-10-16 09:14,Negative
+8,Reddit,user8,Technology is awesome!,2025-10-16 09:16,Positive
+9,YouTube,user9,Today is just another day.,2025-10-16 09:18,Neutral
+10,Instagram,user10,This product doesn’t work.,2025-10-16 09:20,Negative
+11,YouTube,user11,Worst update ever.,2025-10-16 09:22,Negative
+12,Twitter,user12,Waiting to see what happens next.,2025-10-16 09:24,Neutral
+13,Reddit,user13,"Not bad, not great either.",2025-10-16 09:26,Neutral
+14,Twitter,user14,Feeling grateful for the support.,2025-10-16 09:28,Positive
+15,Reddit,user15,"Not bad, not great either.",2025-10-16 09:30,Neutral
+16,YouTube,user16,Today is just another day.,2025-10-16 09:32,Neutral
+17,Reddit,user17,Normal update.,2025-10-16 09:34,Neutral
+18,YouTube,user18,I think it could be better.,2025-10-16 09:36,Neutral
+19,YouTube,user19,"The event was fine, nothing special.",2025-10-16 09:38,Neutral
+20,YouTube,user20,This app keeps crashing. So frustrating.,2025-10-16 09:40,Negative
+21,YouTube,user21,Feeling grateful for the support.,2025-10-16 09:42,Positive
+22,Instagram,user22,Feeling grateful for the support.,2025-10-16 09:44,Positive
+23,Instagram,user23,Can't stop watching these videos.,2025-10-16 09:46,Positive
+24,Instagram,user24,Can't stop watching these videos.,2025-10-16 09:48,Positive
+25,Reddit,user25,Feeling grateful for the support.,2025-10-16 09:50,Positive
+26,YouTube,user26,AI tools are amazing.,2025-10-16 09:52,Positive
+27,YouTube,user27,Can't stop watching these videos.,2025-10-16 09:54,Positive
+28,YouTube,user28,Such inspiring content!,2025-10-16 09:56,Positive
+29,Instagram,user29,It works as expected.,2025-10-16 09:58,Neutral
+30,YouTube,user30,Worst update ever.,2025-10-16 10:00,Negative
+31,Twitter,user31,Mixed feelings about this.,2025-10-16 10:02,Neutral
+32,Twitter,user32,Great experience using this app!,2025-10-16 10:04,Positive
+33,Instagram,user33,AI tools are amazing.,2025-10-16 10:06,Positive
+34,Reddit,user34,Today is just another day.,2025-10-16 10:08,Neutral
+35,Reddit,user35,Completely disappointed with the results.,2025-10-16 10:10,Negative
+36,YouTube,user36,"I tried it out, it’s okay.",2025-10-16 10:12,Neutral
+37,YouTube,user37,"I tried it out, it’s okay.",2025-10-16 10:14,Neutral
+38,Reddit,user38,Customer service is terrible.,2025-10-16 10:16,Negative
+39,YouTube,user39,Best day ever!,2025-10-16 10:18,Positive
+40,YouTube,user40,This product doesn’t work.,2025-10-16 10:20,Negative
+41,Instagram,user41,Worst update ever.,2025-10-16 10:22,Negative
+42,YouTube,user42,"I tried it out, it’s okay.",2025-10-16 10:24,Neutral
+43,Twitter,user43,Great experience using this app!,2025-10-16 10:26,Positive
+44,Reddit,user44,I absolutely love this update!,2025-10-16 10:28,Positive
+45,Instagram,user45,It works as expected.,2025-10-16 10:30,Neutral
+46,YouTube,user46,Customer service is terrible.,2025-10-16 10:32,Negative
+47,Reddit,user47,Mixed feelings about this.,2025-10-16 10:34,Neutral
+48,Twitter,user48,Worst update ever.,2025-10-16 10:36,Negative
+49,Reddit,user49,"The event was fine, nothing special.",2025-10-16 10:38,Neutral
+50,Twitter,user50,AI tools are amazing.,2025-10-16 10:40,Positive
